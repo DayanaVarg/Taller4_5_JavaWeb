@@ -50,6 +50,11 @@ Cuenta con las mismas etiquetas del Index, salvo que contiene más <input> y <la
 ***
 ![image](https://user-images.githubusercontent.com/128272265/236374635-81c32375-9fcc-4489-8106-5c220203f4f0.png)
 
+#### Encrypt - Decrypt MySQL
+***
+  ![image](https://user-images.githubusercontent.com/128272265/236377952-9ffa7436-6f2d-440e-a727-7798f84fe514.png)
+
+
   
 ### Tecnologías usuadas
 ***
