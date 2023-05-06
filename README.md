@@ -36,19 +36,19 @@ Cuenta con las mismas etiquetas del Index, salvo que contiene más <input> y <la
 
 #### BasicConnection
 ***
-![image](https://user-images.githubusercontent.com/128272265/236374121-8fac349f-9cc0-464f-a79c-9240c75cc119.png)
+![image](https://user-images.githubusercontent.com/128272265/236643737-bd4205bb-d78a-4c94-85c6-5aa43546faec.png)
 
 #### BasicConnectionWithResources
 ***
-![image](https://user-images.githubusercontent.com/128272265/236374365-19c94dbb-f77a-4660-86ba-5587c12b75f6.png)
+![image](https://user-images.githubusercontent.com/128272265/236643766-2f7dd7c7-40bc-4cd7-be7d-d9ac2ad1ed30.png)
 
 #### UseBasicConnectionSingleton
 ***
-![image](https://user-images.githubusercontent.com/128272265/236374581-2e5419e8-e857-413b-9c60-8a32aba9bd76.png)
+![image](https://user-images.githubusercontent.com/128272265/236643796-afd830ba-7b26-45ad-95fd-3390b9ce2df6.png)
 
 #### UseConnectionPool
 ***
-![image](https://user-images.githubusercontent.com/128272265/236374635-81c32375-9fcc-4489-8106-5c220203f4f0.png)
+![image](https://user-images.githubusercontent.com/128272265/236643851-7bdd8373-c995-4d44-8fc1-0937ade2b3e8.png)
 
 #### Encrypt - Decrypt MySQL
 ***
