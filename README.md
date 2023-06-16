@@ -37,6 +37,7 @@ Cuenta con las mismas etiquetas del Index, pero especialmente funciona para el l
 #### Formulario de registro
 ***
 Cuenta con las mismas etiquetas del Index, salvo que contiene más <input> y <label> debido a que son más campos de registro. Especialmente funciona para el registro de una usuario nuevo, solicitando datos como: Nombre, Apellido, Correo y Contraseña.
+
 ![image](https://github.com/DayanaVarg/Taller4_5_JavaWeb/assets/128272265/2472f30b-c473-4918-9da0-b4bfc84239ec)
 
 #### BasicConnection
